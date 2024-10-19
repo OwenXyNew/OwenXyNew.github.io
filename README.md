@@ -18,10 +18,11 @@
 <!--Come up with something below -->
   <h1>Links</h1>
   <h2>freeCodeCamp</h2>
-    <a href="https://www.freecodecamp.org">freeCodeCamp
+    <a target="blank" href="https://www.freecodecamp.org">freeCodeCamp
   <h2>Scratch</h2>
-      <a href="https://scratch.mit.edu/">Scratch
+      <a target="_blank" href="https://scratch.mit.edu/">Scratch
 </section>
+        
 <section>
   <h1>Credits</h1>
     <ol>
