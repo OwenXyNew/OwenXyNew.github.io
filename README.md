@@ -1,7 +1,4 @@
 # OwenXyNew.github.io
-<!DOCTYPE html>
-<html lang="en">
-<meta charset="utf-8"
 
 <section>
 <h1>Project 1</h1>
